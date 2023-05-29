@@ -1,0 +1,17 @@
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\bin\Debug\net6.0-windows\Lập trình C# WinForm.exe
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\bin\Debug\net6.0-windows\Lập trình C# WinForm.deps.json
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\bin\Debug\net6.0-windows\Lập trình C# WinForm.runtimeconfig.json
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\bin\Debug\net6.0-windows\Lập trình C# WinForm.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\bin\Debug\net6.0-windows\Lập trình C# WinForm.pdb
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.csproj.AssemblyReference.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập_trình_C__WinForm.MainForm.resources
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.csproj.GenerateResource.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.AssemblyInfoInputs.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.AssemblyInfo.cs
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\refint\Lập trình C# WinForm.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.pdb
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\Lập trình C# WinForm.genruntimeconfig.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\Lập trình C# WinForm\Lập trình C# WinForm\obj\Debug\net6.0-windows\ref\Lập trình C# WinForm.dll

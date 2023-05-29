@@ -1,0 +1,17 @@
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\bin\Debug\net6.0-windows\WinForm Calculator.exe
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\bin\Debug\net6.0-windows\WinForm Calculator.deps.json
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\bin\Debug\net6.0-windows\WinForm Calculator.runtimeconfig.json
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\bin\Debug\net6.0-windows\WinForm Calculator.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\bin\Debug\net6.0-windows\WinForm Calculator.pdb
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.csproj.AssemblyReference.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.csproj.GenerateResource.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.AssemblyInfoInputs.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.AssemblyInfo.cs
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\refint\WinForm Calculator.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.pdb
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm Calculator.genruntimeconfig.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\ref\WinForm Calculator.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm Calculator\WinForm Calculator\obj\Debug\net6.0-windows\WinForm_Calculator.Calculator.resources
