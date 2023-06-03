@@ -1,0 +1,17 @@
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\bin\Debug\net6.0-windows\WinForm To Do List.exe
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\bin\Debug\net6.0-windows\WinForm To Do List.deps.json
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\bin\Debug\net6.0-windows\WinForm To Do List.runtimeconfig.json
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\bin\Debug\net6.0-windows\WinForm To Do List.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\bin\Debug\net6.0-windows\WinForm To Do List.pdb
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.csproj.AssemblyReference.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm_To_Do_List.Form1.resources
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.csproj.GenerateResource.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.AssemblyInfoInputs.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.AssemblyInfo.cs
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\refint\WinForm To Do List.dll
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.pdb
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\WinForm To Do List.genruntimeconfig.cache
+C:\Users\Tech with Linh\OneDrive\Desktop\Coding\C#\WinForm To Do List\WinForm To Do List\obj\Debug\net6.0-windows\ref\WinForm To Do List.dll
